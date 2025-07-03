@@ -33,7 +33,7 @@ function App() {
       </ul>
 
       <h3>4. Your Privacy Choices</h3>
-      <p>You can opt out of analytics tracking by adjusting your device settings.</p>
+      <p>You can opt out of analytics tracking by toggling the "Allow Anonymous Analytics Tracking" option in the app settings.</p>
 
       <h3>5. Contact Us</h3>
       <p>If you have any questions or concerns, please reach out at: <a href="mailto:kazoom.apps@gmail.com">kazoom.apps@gmail.com</a></p>
