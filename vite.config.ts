@@ -13,7 +13,7 @@ export default defineConfig({
       "@": resolve(__dirname, "./src"),
     },
   },
-  base: '/ShiftMate/',
+  base: '/DecklyPrivacy/',
   build: {
     outDir,
     emptyOutDir: true,
